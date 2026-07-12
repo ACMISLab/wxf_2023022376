@@ -1,0 +1,25 @@
+{
+    "plot type": "line",
+    "value": [
+        {
+            "category": "Database",
+            "time_to_resolution_seconds": 597534.818128798
+        },
+        {
+            "category": "Hardware",
+            "time_to_resolution_seconds": 635699.329423361
+        },
+        {
+            "category": "Inquiry / Help",
+            "time_to_resolution_seconds": 735218.5013236763
+        },
+        {
+            "category": "Network",
+            "time_to_resolution_seconds": 537627.5861913534
+        },
+        {
+            "category": "Software",
+            "time_to_resolution_seconds": 617562.2333978412
+        }
+    ]
+}

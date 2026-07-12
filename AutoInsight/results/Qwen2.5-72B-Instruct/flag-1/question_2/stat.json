@@ -1,0 +1,21 @@
+{
+    "plot type": "line plot",
+    "value": [
+        {
+            "priority": "1 - Critical",
+            "time_to_resolution_seconds": 558407.1689673571
+        },
+        {
+            "priority": "2 - High",
+            "time_to_resolution_seconds": 648564.8396492756
+        },
+        {
+            "priority": "3 - Moderate",
+            "time_to_resolution_seconds": 650405.754059972
+        },
+        {
+            "priority": "4 - Low",
+            "time_to_resolution_seconds": 1267566.845921162
+        }
+    ]
+}

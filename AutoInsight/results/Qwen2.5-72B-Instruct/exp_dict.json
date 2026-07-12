@@ -1,0 +1,7 @@
+{
+    "base_url": "http://210.40.16.205:33803",
+    "benchmark_type": "ours",
+    "branch_depth": 3,
+    "max_questions": 3,
+    "model_name": "Qwen2.5-72B-Instruct"
+}

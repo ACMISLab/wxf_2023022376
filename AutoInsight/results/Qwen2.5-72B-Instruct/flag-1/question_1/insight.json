@@ -1,0 +1,9 @@
+{
+    "answer": "The average time to resolution for incidents in each category is as follows: Database (6.9 days), Hardware (7.4 days), Inquiry / Help (8.5 days), Network (6.2 days), and Software (7.1 days), with Inquiry / Help having the longest resolution time and Network having the shortest.",
+    "insight": "Inquiry / Help incidents take, on average, 2.3 days longer to resolve compared to Network incidents, indicating a significant discrepancy in resolution times across categories.",
+    "insight_score": 0.8,
+    "output_folder": "results\\Qwen2.5-72B-Instruct\\flag-1\\question_1",
+    "parent_question_id": "question_0",
+    "question": "What is the average time to resolution for incidents in each category, and are there any categories that have significantly longer or shorter resolution times compared to others?",
+    "question_id": "question_1"
+}

@@ -1,0 +1,9 @@
+{
+    "answer": "Incidents with a priority level of '1 - Critical' are resolved faster on average, with a time to resolution of approximately 6.5 days, compared to '4 - Low' priority incidents, which take about 14.7 days on average.",
+    "insight": "Incidents classified as '1 - Critical' are resolved nearly twice as fast as '4 - Low' priority incidents, indicating a significant discrepancy in resolution times based on priority levels.",
+    "insight_score": 0.7,
+    "output_folder": "results\\Qwen2.5-72B-Instruct\\flag-1\\question_2",
+    "parent_question_id": "question_1",
+    "question": "What is the relationship between the priority level of incidents and the time to resolution, and are there any priority levels that are consistently resolved faster or slower than others?",
+    "question_id": "question_2"
+}
